@@ -1,32 +1,58 @@
-📊 Sales Prediction using Linear Regression
-Predict product sales based on advertising budgets across TV, Radio, and Newspaper channels using Linear Regression.
+📈 Sales Prediction using Linear Regression
+This project is part of my CodSoft Data Science Internship tasks.
+The goal is to build a machine learning model to predict product sales based on advertisement spending on different media platforms.
 
-📁 Dataset:
-advertising.csv
+📁 Dataset Used
 
-Features: TV, Radio, Newspaper
+Source: advertising.csv
 
-Target: Sales
+Contains features such as:
 
-🛠️ Steps:
-Import libraries & load data
+TV, Radio, Newspaper
 
-Explore data (info(), describe(), correlation heatmap)
+Target variable: Sales (numeric)
 
-Visualize relationships (scatter plots)
+🛠️ Tools & Libraries
 
-Build Linear Regression model
+Python
 
-Evaluate (MAE, MSE, RMSE, R² score)
+Pandas, NumPy
 
-Compare actual vs predicted sales
+Scikit-learn
 
-📈 Key Libraries:
-pandas, numpy, matplotlib, seaborn, sklearn
+Seaborn, Matplotlib
 
-✅ Output:
-Model intercept & coefficients
+Jupyter Notebook
 
-Error metrics
+✅ Workflow
+
+Importing libraries and loading dataset
+
+Data exploration (info(), describe(), correlation heatmap)
+
+Data visualization using scatter plots
+
+Splitting data into training and testing sets
+
+Building a Linear Regression model
+
+Evaluating the model using:
+
+MAE, MSE, RMSE
+
+R² Score
+
+Visualizing actual vs predicted sales
+
+📊 Output
+
+Intercept and coefficients of the model
+
+Evaluation metrics printed
 
 Bar chart comparing actual vs predicted sales
+
+🔗 Author
+Somesh
+CodSoft Intern (Data Science)
+LinkedIn: linkedin.com/in/someshgaikwad20
