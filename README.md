@@ -37,6 +37,8 @@ Visualizing actual vs predicted sales
 - Bar chart comparing actual vs predicted sales
 
 🔗 Author
+
 Somesh
+
 CodSoft Intern (Data Science)
 LinkedIn: linkedin.com/in/someshgaikwad20
