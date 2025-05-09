@@ -1,4 +1,4 @@
-Sales Prediction using Machine Learning📈 
+Sales Prediction using Linear Regression📈 
 
 This project is part of my CodSoft Data Science Internship tasks.
 The goal is to build a machine learning model to predict product sales based on advertisement spending on different media platforms.
